@@ -4,7 +4,7 @@ This repository contains methods for data augmentation and supervised learning a
 
 Requires Python 3.8+   
 
-**Published in European Journal of Psychotraumatology**   
+### Published in European Journal of Psychotraumatology   
 Unravelling psychiatric heterogeneity and predicting suicide attempts in women with trauma-related dissociation using artificial intelligence   
 
 **Suggested Citation:**   
